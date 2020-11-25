@@ -31,7 +31,6 @@ user_groups:
 highlight_name: false
 email: lixin940207@163.com
 ---
+My name is Xin LI, I graduated from Telecom Paristech in 2019 with a master degree in Data Science. I have worked as a Data Optimization intern at Total for 6 months and as an Algorithm Engineer at DataGrand(a leading AI text processing company in China) for 2 years. My interests are in software developping, data science, natrual language processing and big data technologies.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Back in my previous job, I used to do nlp deep learning research work and then integrate algorithms into production to meet clients' text processing needs, such as information intrival and text classification. Besides that, I also worked for the developpement team, which develops the whole text processing web system. The main working language was Python, I gained a lot experience in Flask, database optimization, asychronous, multiprocessing etc.
