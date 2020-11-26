@@ -2,7 +2,7 @@
 title: Big Data Realtime Project
 subtitle: GULI MALL REALTIME USER BEHAVIOR ANALYSIS PROJECT
 date: 2020-10-01T12:45:00.000Z
-draft: true
+draft: false
 featured: true
 external_link: https://github.com/lixin940207/gmail1205parent
 image:
