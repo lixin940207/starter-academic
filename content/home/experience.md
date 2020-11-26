@@ -27,15 +27,20 @@ date_format = "Feb 2019"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Involved in analyzing business requirements and designing data models.
+  * Developed the application server, the business middle platform of the text processing system, using Flask and Flaskalchemy. App server receives requests from front-end, does the bussiness logic and connects with MySQL.
+  * Developed an asychronous server to forward requests to backend servers by message queue.
+  * Optimized SQL queries to support millions of data read/write and to shorten response time. 
+  * Keep in track with the latest research of NLP technologies and tries to integrate algorithms into production to meet clients' text processing requirement: information intrival and text classification.
+  * Implemented deep learning models using Tensorflow.
+
+
   """
 
 [[experience]]
   title = "Data Optimization intern"
   company = "Total SA"
-  company_url = ""
+  company_url = "http://www.total.fr"
   location = "Paris, France"
   date_start = "Jun 2018"
   date_end = "Dec 2018"
