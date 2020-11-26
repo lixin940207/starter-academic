@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certificates & Rewards"
 subtitle = ""
 
 # Date format
@@ -26,6 +26,26 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org"
   date_start = "2020-11-01"
   date_end = ""
+  description = ""
+ 
+[[item]]
+  organization = "China Conference on Knowledge Graph and Semantic Computing"
+  organization_url = "http://www.ccks2019.cn/en"
+  title = "Public Announcement Information Extraction Competition - ranked 2/100+"
+  url = "http://www.ccks2019.cn/en"
+  certificate_url = "https://zhuanlan.zhihu.com/p/81243432"
+  date_start = "2019-08-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "the French Ministry for Europe and Foreign Affairs"
+  organization_url = ""
+  title = "EIFFEL SCHOLARSHIP"
+  url = "https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence"
+  certificate_url = "https://www.coursera.org"
+  date_start = "2016-09-01"
+  date_end = "2018-06-01"
   description = ""
 
 +++

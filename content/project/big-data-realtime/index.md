@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Big Data Realtime"
-summary: ""
-authors: []
-tags: []
-categories: []
+title: "Big Data Realtime Project"
+summary: "GULI mall realtime user behavior analysis"
+authors: [Xin LI]
+tags: [Kafka, SparkStreaming, HBase, ElasticSearch, Kibana, SpringBoot]
+categories: [Big Data]
 date: 2020-11-26T15:48:39+01:00
 
 # Optional external URL for project (replaces project detail page).
@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "project structure"
   focal_point: ""
   preview_only: false
 
@@ -39,3 +39,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Collected real-time user behavior data and sent it to **Kafka**.
+
+Calculated daily and timesharing DAU and transaction amount using **SparkStreaming** and saved data to **Hbase**.
+
+Joined data streams to merge order information and user together, then sent to **ElasticSearch**for further query.
+
+Analyzed user purchase behavior from **Kibana**.
