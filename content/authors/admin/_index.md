@@ -2,8 +2,7 @@
 title: XIN LI
 role: Software Engineer
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Software Development
   - Deep Learning
