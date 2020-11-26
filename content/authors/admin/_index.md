@@ -6,7 +6,7 @@ bio: ""
 interests:
   - Software Development
   - NLP
-  - BigDataTechnologies
+  - Big Data Technologies
 social:
   - icon: envelope
     icon_pack: fas
