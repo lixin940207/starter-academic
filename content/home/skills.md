@@ -59,7 +59,7 @@ subtitle = ""
 [[feature]]
   icon = "docker"
   icon_pack = "custom"
-  name = "Git"
+  name = "Docker"
   description = "80%"
   
 [[feature]]
