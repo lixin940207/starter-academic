@@ -27,7 +27,7 @@ subtitle = ""
   description = "90%"
  
 [[feature]]
-  icon = "scala"
+  icon = "file_type_scala_icon_130180"
   icon_pack = "custom"
   name = "Scala"
   description = "90%"
@@ -55,9 +55,15 @@ subtitle = ""
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 [[feature]]
-  icon = "mysql"
+  icon = "mysql_original_wordmark_logo_icon_146417"
   icon_pack = "custom"
   name = "MySQL"
+  description = "90%"
+  
+[[feature]]
+  icon = "hadoop"
+  icon_pack = "custom"
+  name = "Big Data Technologies"
   description = "90%"
 
 
