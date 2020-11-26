@@ -44,6 +44,11 @@ date_format = "Jan 2006"
   location = "Paris, France"
   date_start = "2018-06-01"
   date_end = "2018-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  *	Processed production data with Pandas, including missing values, outliers, redundancy, feature vectorization, etc.
+  *	Used Machine Learning algorithms on forecast, classification and optimization of petroleum product.
+  *	Presented data and conclusions in Jupyter and Tableau in order to improve strategies and operations.
+
+  """
 
 +++
