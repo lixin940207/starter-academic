@@ -18,36 +18,43 @@ subtitle = ""
   icon = "python3"
   icon_pack = "custom"
   name = "Python"
+  description = "10%"
 
 [[feature]]
   icon = "java"
   icon_pack = "custom"
   name = "Java"
+  description = "10%"
  
 [[feature]]
   icon = "file_type_scala_icon_130180"
   icon_pack = "custom"
   name = "Scala"
+  description = "10%"
   
 [[feature]]
   icon = "hadoop"
   icon_pack = "custom"
   name = "Big Data Technologies"
+  description = "10%"
 
 [[feature]]
-  icon = "mysql2"
+  icon = "mysql_original_wordmark_logo_icon_146417"
   icon_pack = "custom"
   name = "SQL DataBases"
+  description = "10%"
   
 [[feature]]
   icon = "redis"
   icon_pack = "custom"
   name = "NoSQL DataBases"
+  description = "10%"
   
 [[feature]]
   icon = "linux"
-  icon_pack = "custom"
+  icon_pack = "fab"
   name = "Linux"
+  description = "10%"
   
 [[feature]]
   icon = "git2"
