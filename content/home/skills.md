@@ -16,25 +16,25 @@ subtitle = ""
 
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = "90%"
 
 [[feature]]
   icon = "java"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Java"
   description = "90%"
   
 [[feature]]
   icon = "linux"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Linux"
   description = "100%"  
   
 [[feature]]
   icon = "git"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Git"
   description = "10%"
 
