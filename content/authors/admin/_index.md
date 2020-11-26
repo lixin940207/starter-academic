@@ -20,7 +20,7 @@ education:
     - course: Master in Data Science
       institution: Telecom Paristech
       year: 2019
-    - course: "Bachelor in Software Engineering "
+    - course: Bachelor in Software Engineer
       institution: Wuhan University
       year: 2016
 superuser: true
