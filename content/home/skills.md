@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "python"
+  icon = "python2"
   icon_pack = "custom"
   name = "Python"
   description = "90%"
@@ -40,7 +40,7 @@ subtitle = ""
   
 [[feature]]
   icon = "git"
-  icon_pack = "fab"
+  icon_pack = "custom"
   name = "Git"
   description = "10%"
 
