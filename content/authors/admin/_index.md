@@ -17,12 +17,12 @@ social:
 organizations: []
 education:
   courses:
-    - course: Telecom Paristech
+    - course: Telecom Paristech, 09.2016-02.2019
       institution: Master in Data Science
-      year: 2019
-    - course: Wuhan University
+      year: ""
+    - course: Wuhan University, 09.2012-06.2016
       institution: Bachelor in Software Engineer
-      year: 2016
+      year: ""
 superuser: true
 user_groups:
   - Researchers
