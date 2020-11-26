@@ -18,10 +18,10 @@ social:
 organizations: []
 education:
   courses:
-    - course: master in Data Science
+    - course: Master in Data Science
       institution: Telecom Paristech
       year: 2019
-    - course: "bachelor in Software Engineering "
+    - course: "Bachelor in Software Engineering "
       institution: Wuhan University
       year: 2016
 superuser: true
