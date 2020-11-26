@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Software Development
-  - NLP
+  - Natural Language Processing
   - Big Data Technologies
 social:
   - icon: envelope
