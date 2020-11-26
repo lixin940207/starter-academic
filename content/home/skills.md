@@ -25,6 +25,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "Java"
   description = "90%"
+ 
+[[feature]]
+  icon = "scala"
+  icon_pack = "custom"
+  name = "Scala"
+  description = "90%"
   
 [[feature]]
   icon = "linux"
@@ -48,10 +54,12 @@ subtitle = ""
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# [[feature]]
-#  icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
+[[feature]]
+  icon = "mysql"
+  icon_pack = "custom"
+  name = "MySQL"
+  description = "90%"
+
+
 
 +++
