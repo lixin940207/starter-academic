@@ -16,13 +16,13 @@ subtitle = ""
 
 [[feature]]
   icon = "python"
-  icon_pack = "fab"
+  icon_pack = "custom"
   name = "Python"
   description = "90%"
 
 [[feature]]
   icon = "java"
-  icon_pack = "fab"
+  icon_pack = "custom"
   name = "Java"
   description = "90%"
  
