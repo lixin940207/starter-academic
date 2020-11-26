@@ -17,11 +17,11 @@ social:
 organizations: []
 education:
   courses:
-    - course: Master in Data Science
-      institution: Telecom Paristech
+    - course: Telecom Paristech
+      institution: Master in Data Science
       year: 2019
-    - course: Bachelor in Software Engineer
-      institution: Wuhan University
+    - course: Wuhan University
+      institution: Bachelor in Software Engineer
       year: 2016
 superuser: true
 user_groups:
