@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Software Development
-  - Deep Learning
   - NLP
+  - BigDataTechnologies
 social:
   - icon: envelope
     icon_pack: fas
