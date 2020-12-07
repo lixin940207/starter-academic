@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "CCA SPARK AND HADOOP DEVELOPER EXAM"
   url = "https://www.cloudera.com/about/training/certification/cca-spark.html"
   certificate_url = "https://www.coursera.org"
-  date_start = "2020-11-01"
-  date_end = ""
+  date_start = "2020-11-29"
+  date_end = "2022-11-29"
   description = ""
  
 [[item]]
