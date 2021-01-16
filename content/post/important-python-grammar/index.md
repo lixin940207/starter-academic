@@ -1,33 +1,44 @@
 ---
-widget: pages
-headless: true  # This file represents a page section.
+title: Welcome to Wowchemy, the website builder for Hugo
+subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
-# ... Put Your Section Options Here (title etc.) ...
+# Summary for listings and search engines
+summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
-content:
-  # Page type to display. E.g. post, event, or publication.
-  page_type: post
-  # Choose how much pages you would like to display (0 = all pages)
-  count: 5
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order. Descending (desc) or ascending (asc) date.
-  order: desc
-  # Optionally filter posts by a taxonomy term.
-  filters:
-    tag: '[python]'
-    category: '[python]'
-    publication_type: ''
-    exclude_featured: false
-    exclude_past: false
-    exclude_future: false
-design:
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)  
-  view: 2
+# Link this post with a project
+projects: []
+
+# Date published
+date: "2016-04-20T00:00:00Z"
+
+# Date updated
+lastmod: "2020-12-13T00:00:00Z"
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
+
+authors:
+- admin
+- 吳恩達
+
+tags:
+- Academic
+- 开源
+
+categories:
+- Demo
+- 教程
 ---
 
 list：
