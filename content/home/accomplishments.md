@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   url = "http://www.ccks2019.cn/en"
   date_start = "2019-08-01"
   date_end = ""
-  description = "ranked 2/100+"
+  description = "Ranked 2/100+."
 
 [[item]]
   organization = "the French Ministry for Europe and Foreign Affairs"
@@ -52,6 +52,6 @@ date_format = "Jan 2006"
   url = "https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence"
   date_start = "2016-09-01"
   date_end = "2018-06-01"
-  description = ""
+  description = "Awarded the most execellent 300+ foreign students every year."
 
 +++
