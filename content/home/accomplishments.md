@@ -19,11 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "AWS"
+  organization_url = " http://aws.amazon.com/verification"
+  title = "AWS Certified Developer - Associate"
+  url = " http://aws.amazon.com/verification"
+  date_start = "2020-01-09"
+  date_end = "2022-01-09"
+  description = ""
+
+[[item]]
   organization = "Cloudera"
   organization_url = "https://www.cloudera.com/"
   title = "CCA SPARK AND HADOOP DEVELOPER EXAM"
   url = "https://www.cloudera.com/about/training/certification/cca-spark.html"
-  certificate_url = "https://www.coursera.org"
   date_start = "2020-11-29"
   date_end = "2022-11-29"
   description = ""
@@ -33,7 +41,6 @@ date_format = "Jan 2006"
   organization_url = "http://www.ccks2019.cn/en"
   title = "Public Announcement Information Extraction Competition - ranked 2/100+"
   url = "http://www.ccks2019.cn/en"
-  certificate_url = "https://zhuanlan.zhihu.com/p/81243432"
   date_start = "2019-08-01"
   date_end = ""
   description = ""
