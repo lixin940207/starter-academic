@@ -1,6 +1,8 @@
 ---
-title: some important python grammar
+title: Some advanced python features
 subtitle: list, dict, set, collections, yield, decrator
+
+summary: Summarized some advanced python features which can make your code more efficient and pythonic
 
 # Link this post with a project
 projects: []
@@ -28,10 +30,11 @@ categories:
 ---
 
 #### list：
-- 优先用列式推导，相比于for loop
-    + 因为list comprehension更快，代码整洁
+- prefer to use list comprehension for loop
+    + because list comprehension is faster and neater
     + 不用每次循环都做if 判断
-- list.append() 普通情况下是O(1)，但是，最坏是O(n)
+- list.append() 
+    + 普通情况下是O(1)，但是，最坏是O(n)
     + 是因为CPython的数组是过度分配的数组作为内部存储，而不是链表，如果长度超过，那么以后再append，就是O(n)
 
 #### dict：
@@ -98,13 +101,47 @@ a generator， it can stop a function and return a intermediate result， make c
                 return result
             return wrapped
     ```
-- 使用场景
-    + 引入日志
-    + 统计时间
-    + before或after函数执行前后要做的事
-    + 缓存
+- use cases
+    + import logging
+    + count time
+    + before or after functions
+    + caching
+
+
+#### Lambda functions
+<p>A Lambda Function is a small, anonymous function — anonymous in the sense that it doesn’t actually have a name.</p>
+<p>Python functions are typically defined using the style of def a_function_name() , but with lambda functions we don’t give it a name at all. We do this because the purpose of a lambda function is to perform some kind of simple expression or operation without the need for fully defining a function.</p>
+A lambda function can take any number of arguments, but must always have only one expression:
     
-#### 其他语法：
+```python
+x = lambda a, b : a * b
+print(x(5, 6)) # prints '30'
+
+x = lambda a : a*3 + 3
+print(x(3)) # prints '12'
+```
+
+<p>See how easy that was! We performed a bit of basic math without the need for defining a full-on function. This is one of the many features of Python that makes it a clean and simplistic programming language to use.</p>
+
+#### Map
+
+<p>Map() is a built-in Python function used to apply a function to a sequence of elements like a list or dictionary. It’s a very clean and most importantly readable way to perform such an operation.</p>
+
+```python
+def square_it_func(a):
+    return a * a
+
+x = map(square_it_func, [1, 4, 7])
+print(x) # prints '[1, 16, 49]'
+
+def multiplier_func(a, b):
+    return a * b
+
+x = map(multiplier_func, [1, 4, 7], [2, 5, 8])
+print(x) # prints '[2, 20, 56]'
+```
+
+#### others
 - for 后面接else，在for循环自然结束（而不是中途break）后执行
     ```python
     for i in range(10):
