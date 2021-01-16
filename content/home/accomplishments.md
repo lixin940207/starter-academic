@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   organization_url = " http://aws.amazon.com/verification"
   title = "AWS Certified Developer - Associate"
   url = " http://aws.amazon.com/verification"
-  date_start = "2020-01-09"
-  date_end = "2022-01-09"
+  date_start = "2021-01-09"
+  date_end = "2021-01-09"
   description = "Validation Number Z05DS9XBJBF41KCG"
 
 [[item]]
