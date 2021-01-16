@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Software Development
-  - NLP
-  - BigDataTechnologies
+  - Natural Language Processing
+  - Big Data Technologies
 social:
   - icon: envelope
     icon_pack: fas
@@ -17,12 +17,12 @@ social:
 organizations: []
 education:
   courses:
-    - course: Master in Data Science
-      institution: Telecom Paristech
-      year: 2019
-    - course: Bachelor in Software Engineer
-      institution: Wuhan University
-      year: 2016
+    - course: Telecom Paristech, Sep 2016 - Feb 2019
+      institution: Master in Data Science
+      year: ""
+    - course: Wuhan University, Sep 2012 - Jun 2016
+      institution: Bachelor in Software Engineer
+      year: ""
 superuser: true
 user_groups:
   - Researchers
