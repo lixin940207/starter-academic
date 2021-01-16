@@ -1,5 +1,8 @@
 ---
-title: database sharding
+title: Challenges of database sharding
+
+summary: When it comes to sharding MySQL clusters, significant challenges can be faced. Take a look at some of them, how to address them, and why they're worth overcoming.
+
 
 # Link this post with a project
 projects: []
@@ -30,7 +33,7 @@ Database Sharding
 - Database sharding is the process of making partitions of data in a database, such that the data is divided into various smaller distinct shards.
 - Each shard could be a table or part of a table.
 - There are horizontal sharding(水平分) and vertical sharding(竖直分)
-- sharding的好处：
+- Advantages of sharding：
     + High availability: shards are independent one shard lost, other shards still operate
 	+ Faster queries: smaller amount of data to query each time
 	+ Write in parallel

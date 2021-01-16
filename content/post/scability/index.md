@@ -2,6 +2,7 @@
 title: Scalability
 subtitle: clones, database, cache, asynchronism
 
+summary: some fundamentals of making a system or service scalable.
 # Link this post with a project
 projects: []
 
@@ -41,7 +42,7 @@ categories:
 #### Scalability 2: Database(如果你的system越来越慢最后break down，说明是mysql的问题)
 - Scale mysql: master-slave replication (read from slaves, write to master), upgrade your master server by adding RAM. 问题是需要自己考虑sharding, sql tuning, 之后的每一个new action都会很贵和time consuming
 - Switch to nosql: 
-	+ nosql 不支持join
+	+ nosql doesn't support join
 	+ join操作可以在application code中完成
 	+ 再加入cache
 

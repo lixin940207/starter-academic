@@ -1,6 +1,7 @@
 ---
 title: How to optimized MySQL?
 
+summary: Record my hands-on optimizing experience working with MySQL.
 # Link this post with a project
 projects: []
 
