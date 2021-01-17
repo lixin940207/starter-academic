@@ -69,8 +69,8 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "fa-aws"
-  icon_pack = "fab"
+  icon = "amazon_aws_logo_icon_168666.svg"
+  icon_pack = "custom"
   name = "AWS"
   description = ""
 
