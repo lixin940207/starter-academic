@@ -18,55 +18,61 @@ subtitle = ""
   icon = "python3"
   icon_pack = "custom"
   name = "Python"
-  description = "90%"
+  description = "  "
 
 [[feature]]
   icon = "java"
   icon_pack = "custom"
   name = "Java"
-  description = "60%"
+  description = "  "
  
 [[feature]]
   icon = "file_type_scala_icon_130180"
   icon_pack = "custom"
   name = "Scala"
-  description = "70%"
+  description = "  "
   
 [[feature]]
   icon = "hadoop"
   icon_pack = "custom"
   name = "Big Data Technologies"
-  description = "70%"
+  description = "  "
 
 [[feature]]
   icon = "mysql_original_wordmark_logo_icon_146417"
   icon_pack = "custom"
-  name = "SQL DataBases"
-  description = "80%"
+  name = "SQL"
+  description = "  "
   
 [[feature]]
   icon = "redis"
   icon_pack = "custom"
-  name = "NoSQL DataBases"
-  description = "60%"
+  name = "NoSQL"
+  description = " "
   
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "80%"
+  description = ""
 
 [[feature]]
   icon = "docker"
   icon_pack = "custom"
   name = "Docker"
-  description = "80%"
+  description = ""
   
 [[feature]]
   icon = "git2"
   icon_pack = "custom"
   name = "Git"
-  description = "80%"
+  description = ""
+  
+[[feature]]
+  icon = "fa-aws"
+  icon_pack = "fab"
+  name = "AWS"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
