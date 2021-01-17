@@ -119,7 +119,7 @@ The following figure shows the training curve of the BiLSTM-CRF model. It can be
 #### 3.3 test
 
 The following is an example prediction result using the BiLSTM-CRF model.
-{{< figure src="2.jpg" title="BiLSTM-CRF prediction" >}}
+{{< figure src="12.jpg" title="BiLSTM-CRF prediction" >}}
 
 ### 4. summary
 Finally, a summary, CNN/RNN-CRF, which combines neural networks and CRF models, has become the current mainstream model of NER. For CNN and RNN, no one has an absolute advantage, each has its own advantages. Because RNN has a natural sequence structure, RNN-CRF is more widely used. The NER method based on the neural network structure inherits the advantages of the deep learning method without a lot of artificial features. Only word vectors and word vectors can reach the mainstream level, and adding high-quality dictionary features can further enhance the effect. For the problem of a small number of labeled training sets, transfer learning and semi-supervised learning should be the focus of future research.
