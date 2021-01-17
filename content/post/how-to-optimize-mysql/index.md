@@ -6,10 +6,10 @@ summary: Record my hands-on optimizing experience working with MySQL.
 projects: []
 
 # Date published
-date: "2016-04-20T00:00:00Z"
+date: "2020-07-20T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2020-07-20T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false

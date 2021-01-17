@@ -8,10 +8,10 @@ summary: A detailed explanation of the application of deep learning in named ent
 projects: []
 
 # Date published
-date: "2016-04-20T00:00:00Z"
+date: "2020-04-16T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2020-04-16T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false

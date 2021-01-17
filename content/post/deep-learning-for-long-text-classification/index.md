@@ -8,10 +8,10 @@ summary: The deep learning models that cannot be missed in the field of text cla
 projects: []
 
 # Date published
-date: "2016-04-20T00:00:00Z"
+date: "2020-06-01T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2020-06-01T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false

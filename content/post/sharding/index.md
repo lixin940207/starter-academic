@@ -8,10 +8,10 @@ summary: When it comes to sharding MySQL clusters, significant challenges can be
 projects: []
 
 # Date published
-date: "2016-04-20T00:00:00Z"
+date: "2021-01-05T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2020-01-05T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false

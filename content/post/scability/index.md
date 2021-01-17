@@ -7,10 +7,10 @@ summary: some fundamentals of making a system or service scalable.
 projects: []
 
 # Date published
-date: "2016-04-20T00:00:00Z"
+date: "2020-12-20T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2020-12-20T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
