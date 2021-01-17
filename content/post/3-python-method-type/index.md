@@ -1,8 +1,7 @@
 ---
-title: Some advanced python features
-subtitle: list, dict, set, collections, yield, decrator
+title: Python static method, class method, instance method
 
-summary: Summarized some advanced python features which can make your code more efficient and pythonic
+summary: Definitions of static method, class method, instance method and their application.
 
 # Link this post with a project
 projects: []

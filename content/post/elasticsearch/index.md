@@ -1,8 +1,7 @@
 ---
-title: Some advanced python features
-subtitle: list, dict, set, collections, yield, decrator
+title: Why use Elasticsearch?
 
-summary: Summarized some advanced python features which can make your code more efficient and pythonic
+summary: Elasticsearch is a distributed, high-scalable, high-real-time search and data analysis engine
 
 # Link this post with a project
 projects: []
@@ -30,7 +29,7 @@ categories:
 ---
 
 
-- 为什么要用es？
+- why use es？
 || redis  | mysql  | es（只有es支持全文检索）  | hbase  | hadoop/hive  |
 |---|---|---|---|---|---|
 |  容量 | 低  |  中 | 较大  | 海量  |海量|
@@ -49,7 +48,7 @@ hbase支持海量数据，但是查询的灵活度不足，hbase近实时查询
 - ES
 
 支持PB级数据的搜索，wiki和百度都用es作为搜索引擎<br>
-特点：全文检索（自动切词），模糊查询（打错也能帮你纠正），数据分析
+特点：全文检索（自动切词），模糊查询（打错也能帮你纠正），数据分析<br>
 
 es天然集群，一个机器也是一个集群，非常容易扩展，<br>
 只需要在三个节点的配置文件中指定node几和ip地址，还有报道中心的ip（一个就好）<br>

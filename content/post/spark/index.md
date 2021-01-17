@@ -1,8 +1,7 @@
 ---
-title: Some advanced python features
-subtitle: list, dict, set, collections, yield, decrator
+title: What is Spark? 
 
-summary: Summarized some advanced python features which can make your code more efficient and pythonic
+summary: Definition and functions of Spark.
 
 # Link this post with a project
 projects: []
